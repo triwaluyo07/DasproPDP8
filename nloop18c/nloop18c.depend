@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511504555 source:d:\pdp10\nloop18c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511702896 source:e:\daspro\pdp8\nloop18c\main.c
+	<stdio.h>
+	<stdlib.h>
+
